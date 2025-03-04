@@ -21,7 +21,9 @@ void str_overwrite_stdout()
 	printf("%s", "> ");
   	fflush(stdout);
 }
-
+void hiu(){
+	
+}
 void str_trim_lf (char* arr, int length)
 {
 	int i;
