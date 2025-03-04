@@ -23,6 +23,7 @@ void str_overwrite_stdout()
 }
 void hiu(){
 	int t=0;
+	int i=0;
 }
 void str_trim_lf (char* arr, int length)
 {
