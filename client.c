@@ -26,6 +26,7 @@ void hiu(){
 	int i=0;
 	int l=0;
 	int z=1;
+	int h=4;
 }
 void str_trim_lf (char* arr, int length)
 {
